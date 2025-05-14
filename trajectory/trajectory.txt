@@ -1,0 +1,8 @@
+Frame 0 - ObjectFrame 5 - Position: <Vector (-29.8599, 2.3866, 0.0000)>, Rotation: <Euler (x=1.5708, y=-0.0000, z=1.8287), order='XYZ'>, Scale: <Vector (0.5983, 0.5983, 0.5983)>
+Frame 1 - ObjectFrame 6 - Position: <Vector (-32.0682, 2.5775, 0.0000)>, Rotation: <Euler (x=1.5708, y=-0.0000, z=1.9750), order='XYZ'>, Scale: <Vector (0.5662, 0.5662, 0.5662)>
+Frame 2 - ObjectFrame 7 - Position: <Vector (-32.0572, 2.5766, 0.0000)>, Rotation: <Euler (x=1.5708, y=-0.0000, z=1.9750), order='XYZ'>, Scale: <Vector (0.5662, 0.5662, 0.5662)>
+Frame 3 - ObjectFrame 8 - Position: <Vector (-32.0247, 2.5738, 0.0000)>, Rotation: <Euler (x=1.5708, y=-0.0000, z=1.9750), order='XYZ'>, Scale: <Vector (0.5662, 0.5662, 0.5662)>
+Frame 4 - ObjectFrame 9 - Position: <Vector (-31.9710, 2.5691, 0.0000)>, Rotation: <Euler (x=1.5708, y=-0.0000, z=1.9750), order='XYZ'>, Scale: <Vector (0.5662, 0.5662, 0.5662)>
+Frame 5 - ObjectFrame 10 - Position: <Vector (-31.8967, 2.5627, 0.0000)>, Rotation: <Euler (x=1.5708, y=-0.0000, z=1.9750), order='XYZ'>, Scale: <Vector (0.5662, 0.5662, 0.5662)>
+Frame 6 - ObjectFrame 11 - Position: <Vector (-31.8024, 2.5546, 0.0000)>, Rotation: <Euler (x=1.5708, y=-0.0000, z=1.9750), order='XYZ'>, Scale: <Vector (0.5662, 0.5662, 0.5662)>
+Frame 7 - ObjectFrame 12 - Position: <Vector (-31.6883, 2.5447, 0.0000)>, Rotation: <Euler (x=1.5708, y=-0.0000, z=1.9750), order='XYZ'>, Scale: <Vector (0.5662, 0.5662, 0.5662)>
