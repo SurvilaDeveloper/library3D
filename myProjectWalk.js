@@ -74,7 +74,7 @@ async function maingl() {
             Para mirar en otra dirección, puede hacer click sobre el lienzo,
             y manteniendo click izquierdo presionado, mueva el mouse
             
-            Con las teclas "o" y "l" haga caminar al modelo.
+            Con las teclas "e" y "f" haga caminar al modelo.
             
             Es probable que en navegadores como Chrome o Edge, la animación sea lenta.
             Funciona bien en el navegador Firefox porque tiene un mejor motor de renderizado
